@@ -1,0 +1,3 @@
+/Users/jasminemadora-rivas/CLionProjects/AssetsClass Week8/cmake-build-debug/CMakeFiles/AssetsClass_Week8.dir
+/Users/jasminemadora-rivas/CLionProjects/AssetsClass Week8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jasminemadora-rivas/CLionProjects/AssetsClass Week8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
